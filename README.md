@@ -1,6 +1,6 @@
-# Awesome NestJS Boilerplate v8
+# Innovation Library Server v1
 
-[![Awesome NestJS](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
+[![Innovation Library](https://img.shields.io/badge/Awesome-NestJS-blue.svg?longCache=true&style=flat-square)](https://github.com/juliandavidmr/awesome-nestjs)
 
 > This is an ever-evolving, very opinionated architecture and dev environment for new node projects using [NestJS](https://nestjs.com). Questions, feedback, and for now, even bikeshedding are welcome. 😄
 
@@ -8,10 +8,10 @@
 
 ```bash
 # 1. Clone the repository or click on "Use this template" button.
-npx degit NarHakobyan/awesome-nest-boilerplate my-nest-app
+git clone https://github.com/isazobu/innolib-server
 
 # 2. Enter your newly-cloned folder.
-cd my-nest-app
+cd innolib-server 
 
 # 3. Create Environment variables file.
 cp .env.example .env
